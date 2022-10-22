@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T23:36:47.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="05t6oEbMbAp1WKj3mjnO" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-22T23:41:19.065Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="W7SglOWltWPDDy4FOM9k" version="20.5.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -415,7 +415,7 @@
         <mxCell id="GZVW_mrwKKOPV1Nri92c-134" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#000000;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#CCCCCC;whiteSpace=wrap;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="121.75" y="2709" width="195" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="GZVW_mrwKKOPV1Nri92c-135" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/854/524/png-transparent-microsoft-azure-logo-typescript-business-microsoft-angle-company-text.png;direction=east;clipPath=inset(32.67% 17.67% 33.33% 15.33%);" vertex="1" parent="1">
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-135" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://w7.pngwing.com/pngs/854/524/png-transparent-microsoft-azure-logo-typescript-business-microsoft-angle-company-text.png;direction=east;clipPath=inset(32.67% 17.67% 33.33% 15.33%);opacity=25;" vertex="1" parent="1">
           <mxGeometry x="133.25" y="2722.18" width="172" height="43.64179104477612" as="geometry" />
         </mxCell>
         <mxCell id="GZVW_mrwKKOPV1Nri92c-136" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#000000;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#CCCCCC;whiteSpace=wrap;fillStyle=solid;" vertex="1" parent="1">
@@ -426,6 +426,15 @@
         </mxCell>
         <mxCell id="GZVW_mrwKKOPV1Nri92c-138" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.buttons.button;strokeColor=#000000;fontColor=#ffffff;mainText=;buttonStyle=round;fontSize=17;fontStyle=1;fillColor=#CCCCCC;whiteSpace=wrap;fillStyle=solid;" vertex="1" parent="1">
           <mxGeometry x="860.5" y="2709" width="195" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-139" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://www.citypng.com/public/uploads/small/115969963204orvcyfzbxzuxt1gmhq93ijmwqk4q6k4eujl3wgngfl77ewluk0hxatrmnppos0aio0kb1hjfi3w8ebmsfk3xfi1rwvqstzvuzpr.png;clipPath=inset(29.41% 47% 31.62% 6.67%);opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="413.74" y="2722.18" width="104.91" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-140" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://uploads-ssl.webflow.com/6138f264e056284b85d8187b/613bd2e5ff02dc69be9d7c6a_20.png;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="645.56" y="2720" width="144.44" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-141" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://banner2.cleanpng.com/20180330/uxe/kisspng-ibm-computer-software-encapsulated-postscript-logo-ibm-5abe0df528b441.3089357815224048531667.jpg;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="905" y="2720" width="102.36" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
