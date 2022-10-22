@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-10-22T22:13:20.077Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="-LDEA3NlbUv_fEkGQJT-" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-22T22:21:18.716Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="QVYX35DL1uLDEXKNJlt_" version="20.5.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -58,8 +58,8 @@
         <mxCell id="677b7b8949515195-26" value="" style="whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fillColor=none;fontFamily=Verdana;fontSize=12;align=center;comic=1;" parent="1" vertex="1">
           <mxGeometry x="830" y="1950" width="230" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="677b7b8949515195-27" value="Section 1" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
-          <mxGeometry x="490" y="440" width="170" height="20" as="geometry" />
+        <mxCell id="677b7b8949515195-27" value="&lt;b&gt;&lt;font style=&quot;font-size: 24px;&quot;&gt;SERVICES&lt;/font&gt;&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
+          <mxGeometry x="490" y="440" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="677b7b8949515195-28" value="Section 2" style="text;html=1;points=[];align=left;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" parent="1" vertex="1">
           <mxGeometry x="30" y="1596" width="170" height="20" as="geometry" />
@@ -147,6 +147,15 @@
         </mxCell>
         <mxCell id="GZVW_mrwKKOPV1Nri92c-10" value="&lt;span style=&quot;font-size: 12px; text-align: justify;&quot;&gt;Lorem ipsum dolor sit amet,&amp;nbsp;&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: justify;&quot;&gt;Lorem ipsum dolor sit amet,&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: justify;&quot;&gt;Lorem&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 12px; text-align: justify;&quot;&gt;Lorem ipsum dolor siT&lt;/span&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
           <mxGeometry x="730" y="610" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-11" value="&lt;b&gt;E-commerce&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="200" y="580" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-12" value="&lt;b&gt;Responsive Design&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="475" y="580" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-13" value="&lt;b&gt;Web Security&lt;/b&gt;" style="text;html=1;points=[];align=center;verticalAlign=top;spacingTop=-4;fontSize=14;fontFamily=Verdana" vertex="1" parent="1">
+          <mxGeometry x="770" y="580" width="170" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
