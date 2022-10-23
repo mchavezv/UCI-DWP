@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-10-23T00:53:33.450Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="lvKgRctFI5f_HbVFsIoG" version="20.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-10-23T01:03:54.044Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36" etag="w_d6cDiq0Jz5hS2ISwwD" version="20.5.1" type="github">
   <diagram name="Page-1" id="03018318-947c-dd8e-b7a3-06fadd420f32">
-    <mxGraphModel dx="1760" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="2577" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -396,6 +396,21 @@
         </mxCell>
         <mxCell id="GZVW_mrwKKOPV1Nri92c-165" value="Your Message *" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.text.textBox;fontColor=#666666;align=left;fontSize=17;spacingLeft=4;spacingTop=-3;strokeColor=#666666;mainText=;fillStyle=solid;fillColor=#FFFFFF;gradientColor=none;opacity=25;" vertex="1" parent="1">
           <mxGeometry x="621.5" y="2960" width="397.5" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-169" value="Logo: reduce a 20px desplazar página hacia abajo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=18;pointerEvents=1;strokeWidth=1;fontSize=12;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="270" y="30" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-170" value="Logo + menú superior: se inmoviliza al desplazar página hacia abajo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=east;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=20;pointerEvents=1;strokeWidth=1;fontSize=12;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="-120" y="25" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-171" value="Imagen1: de fondo" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=18;pointerEvents=1;strokeWidth=1;fontSize=12;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="70" y="110" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-172" value="Botones del menú: fondo de Imagen1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=18;pointerEvents=1;strokeWidth=1;fontSize=12;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="508" y="30" width="161" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GZVW_mrwKKOPV1Nri92c-173" value="Botón hacia &quot;Services&quot;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;fontColor=#000000;darkOpacity=0.05;fillColor=#FFF9B2;strokeColor=none;fillStyle=solid;direction=west;gradientDirection=north;gradientColor=#FFF2A1;shadow=1;size=18;pointerEvents=1;strokeWidth=1;fontSize=12;opacity=25;" vertex="1" parent="1">
+          <mxGeometry x="692.19" y="290" width="161" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
