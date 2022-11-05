@@ -1,0 +1,10 @@
+.publicidad{
+    &__contenedor{
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        a{
+            padding: 0 2rem;
+        }
+    }
+}

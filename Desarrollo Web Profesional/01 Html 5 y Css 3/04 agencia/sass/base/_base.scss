@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+/* ⚡⚡ TAMAÑO POR DEFECTO DE LA FUENTE ⚡⚡  */
+/*
+    16PX = 1REM = al tamaño de la fuente base
+    rem = 30px *******************
+    10px = 1rem 
+    30px = 3rem
+    25.5px = 2.55rem
+*/
+
+/*
+    16px -> 100%
+    10px -> 62.5%
+*/
+
+html{
+    font-size: 62.5%; // -> 10px como tamaño de fuente base -> 1rem
+}
+
+ul{
+    list-style: none;
+}
+
+a,
+a:link,
+a:visited{
+    text-decoration: none;
+    display: inline-block;
+}
+img{
+    display: block;
+}
